@@ -6,7 +6,7 @@ description:
 
 profile:
   align: left
-  image: lei.wang.professional.jpg
+  image: leiWangProfessional.jpg
   address: 
 
 news: false  # includes a list of news items
