@@ -22,8 +22,10 @@ Phone: 814-867-5838<br>
 Email: lei.michelle.wang@gmail.com<br>
 
 [**[Google Scholar]**](https://scholar.google.com/citations?hl=en&user=wJNAAmIAAAAJ&view_op=list_works&sortby=pubdate) ||        [**[Linkedin]**](https://www.linkedin.com/in/lei-wang-88810a3a/) ||        [**[CV]**](/assets/files/LeiWang_CV.pdf) <br>
-
 <br>
+<br>
+
+
 **Dr. Lei Wang** is an Assistant Professor of Information Systems at the Smeal College of Business, Pennsylvania State University. She holds a Ph.D. in Operations and Information Management from the School of Business at the University of Connecticut, complemented by a master's degree in Economics and a bachelor's degree in Electrical Engineering.
 
 Her research focuses on the integration and impact of digital technologies in business. Her main areas of research include **artificial intelligence (AI)**, **digital platforms**, **gamification**, **digital commerce**, and **user engagement**. She employs diverse methodologies in her research, ranging from **machine learning** and **statistical modeling** to **field and laboratory experiments** and **applied econometrics**.
