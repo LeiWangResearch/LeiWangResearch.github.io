@@ -8,7 +8,7 @@ nav: true
 
 #### Journal Publications
 1. Shankar, R., **Wang, L.**, Gunasti, K., Li, H. (2024). [Nonverbal Peer Feedback and User Contribution in Online Forums: Experimental Evidence of the Role of Attribution and Emotions](https://aisel.aisnet.org/jais/vol25/iss2/7/). ***Journal of the Association for Information Systems***, 25(2), 267-303.
-1. Zhao, X., Huang, L., **Wang, L.**, Yazdani, E., Zhang, C. (2023). [Understanding of the Dynamics of Mobile Reading: An HMM Model of User Engagement and Content Consumption](https://doi.org/10.1111/poms.13964). ***Production and Operations Management***. Forthcoming. [**Corresponding author**], [[Research News](https://www.psu.edu/news/smeal-college-business/story/penn-state-smeal-research-reveals-factors-affect-mobile-reader/)], [**UTD24**, **FT50**]
+1. Zhao, X., Huang, L., **Wang, L.**, Yazdani, E., Zhang, C. (2023). [Understanding of the Dynamics of Mobile Reading: An HMM Model of User Engagement and Content Consumption](https://doi.org/10.1111/poms.13964). ***Production and Operations Management***. Forthcoming. [**Corresponding author**], [**[Research News](https://www.psu.edu/news/smeal-college-business/story/penn-state-smeal-research-reveals-factors-affect-mobile-reader/)**], [**UTD24**, **FT50**]
 1. Ho, Y., Liu, S., **Wang, L.** (Listed Alphabetically) (2023). [Fun Shopping - A Randomized Field Experiment of Gamification](https://pubsonline.informs.org/doi/pdf/10.1287/isre.2022.1147). ***Information Systems Research***, 34(2), 766-785.  [**UTD24**, **FT50**]
 1. **Wang, L.**, Gopal, R., Shankar, R., Pancras, J. (2022). [Forecasting venue popularity on location-based services using interpretable machine learning](https://doi.org/10.1111/poms.13727). ***Production and Operations Management***, 31(7), 2773-2788. [**Lead article for the July 2022 Issue**] [**UTD24**, **FT50**]
 1. Guo, H., Zhang, D., Liu, S., **Wang, L.**, Ding, Y. (2021). [Cryptocurrency Price Decryption: An Underlying Blockchain Perspective](https://doi.org/10.1016/j.dss.2021.113650). ***Decision Support Systems***, 151, 113650.
@@ -18,10 +18,9 @@ nav: true
 <br>
 
 #### Papers Under Review
-1. **Wang, L.**, Zhang, Y., Ho, Y. Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing. (Under preparation for the third round review at ***Information Systems Research***) [**SSRN Top Ten Download List**]
+1. **Wang, L.**, Zhang, Y., Ho, Y. Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing. (Under preparation for the third round review at ***Information Systems Research***) 
 1. Liu, Y., **Wang, L.**, Yang, S., Wang, Y. AI-Powered Digital Streamers for Online Retail: Empirical Evidence and Design Strategies Through Experiments (Under the second round review at ***Information Systems Research***)
 1. Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work (Under the first round review at ***Information Systems Research***)
-   - Co-first authors, listed alphabetically
 1. **Wang, L.**, Huang, L., Gopal, R. From Exposure to Expression: The Influence of NSFW Content on User Interaction Dynamics in Generative AI and its Implications for Moderation (Under the first round review at ***Information Systems Research***)
 <br>
 
