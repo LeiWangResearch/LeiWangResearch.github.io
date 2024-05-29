@@ -16,12 +16,12 @@ nav: true
 - Zhao, X., Huang, L., **Wang, L.***, Yazdani, E., Zhang, C. (2023). [Understanding of the Dynamics of Mobile Reading: An HMM Model of User Engagement and Content Consumption](https://doi.org/10.1111/poms.13964). **Production and Operations Management**. Forthcoming.
    - Promoted by [Penn State Smeal Research](https://www.psu.edu/news/smeal-college-business/story/penn-state-smeal-research-reveals-factors-affect-mobile-reader/)
    - Corresponding author
-- Ho, Y., Liu, S., **Wang, L.** (2023). [Fun Shopping - A Randomized Field Experiment of Gamification](pubsonline.informs.org/doi/epdf/10.1287/isre.2022.1147). **Information Systems Research**, 34(2), 766-785.
+- Ho, Y., Liu, S., **Wang, L.** (2023). [Fun Shopping - A Randomized Field Experiment of Gamification]https://pubsonline.informs.org/doi/pdf/10.1287/isre.2022.1147). **Information Systems Research**, 34(2), 766-785.
    - Authors are listed alphabetically
-- **Wang, L.**, Gopal, R., Shankar, R., Pancras, J. (2022). [Understanding Venue Popularity on Location-Based Services Using Interpretable Machine Learning](onlinelibrary.wiley.com/doi/10.1111/poms.13964). **Production and Operations Management**, 31(7), 2773-2788.
+- **Wang, L.**, Gopal, R., Shankar, R., Pancras, J. (2022). [Forecasting venue popularity on location-based services using interpretable machine learning](https://doi.org/10.1111/poms.13727). **Production and Operations Management**, 31(7), 2773-2788.
    - Selected to be the lead article for the July 2022 Issue
 - Guo, H., Zhang, D., Liu, S., **Wang, L.**, Ding, Y. (2021). [Cryptocurrency Price Decryption: An Underlying Blockchain Perspective](www.sciencedirect.com/science/article/pii/S0167923621001603?via%3Dihub). **Decision Support Systems**, 151, 113650.
-- **Wang, L.**, Gunasti, K., Shankar, R., Pancras, J., Gopal, R. (2020). [Impact of Gamification on Perceptions of Word-of-Mouth Contributors and Actions of Word-of-Mouth Consumers](misq.umn.edu/impact-of-gamification-on-perceptions-of-word-of-moutn-contributors-and-actions-of-word-of-mouth-consumers.html). **MIS Quarterly**, 44(4), 1987-2011.
+- **Wang, L.**, Gunasti, K., Shankar, R., Pancras, J., Gopal, R. (2020). [Impact of Gamification on Perceptions of Word-of-Mouth Contributors and Actions of Word-of-Mouth Consumers]([misq.umn.edu/impact-of-gamification-on-perceptions-of-word-of-moutn-contributors-and-actions-of-word-of-mouth-consumers.html](https://misq.umn.edu/impact-of-gamification-on-perceptions-of-word-of-moutn-contributors-and-actions-of-word-of-mouth-consumers.html)). **MIS Quarterly**, 44(4), 1987-2011.
 - **Wang, L.**, Gopal, R., Shankar, R., Pancras, J. (2015). [On the brink: Predicting Business Failure with Mobile Location-Based Checkins](www.sciencedirect.com/science/article/abs/pii/S0167923615000810?via%3Dihub). **Decision Support Systems**, 76, 3-13*.
 - Ba, S., **Wang, L.** (2013). [Digital Health Communities: The Effect of Their Motivation Mechanisms](www.sciencedirect.com/science/article/pii/S0167923613000122?via%3Dihub). **Decision Support Systems**, 55, 941-947.
    - Authors are listed alphabetically
