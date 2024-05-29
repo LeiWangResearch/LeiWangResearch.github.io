@@ -78,8 +78,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-# blog_name: Jindong Wang  # your blog must have a name for it to show up in the nav bar
-# blog_description: Jindong Wang's personal website
+# blog_name: Lei Wang  # your blog must have a name for it to show up in the nav bar
+# blog_description: Lei Wang's personal website
 # permalink: /blog/:year/:title/
 
 # Pagination
@@ -184,7 +184,7 @@ jekyll-archives:
 scholar:
 
   last_name: Wang
-  first_name: Jindong
+  first_name: Lei
 
   style: apa
   locale: en
