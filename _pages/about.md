@@ -14,13 +14,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-#Assistant Professor<br>
 Department Supply Chain & Information Systems<br>
-Smeal College of Business
+Smeal College of Business<br>
 Pennsylvania State University, University Park<br>
-Office Address: 426 Business Building<br>
-Phone Number: 814-867-5838<br>
-Email Address: lei.michelle.wang@gmail.com<br>
+Office: 426 Business Building<br>
+Phone: 814-867-5838<br>
+Email: lei.michelle.wang@gmail.com<br>
 
 [**[Google Scholar]**](https://scholar.google.com/citations?hl=en&user=wJNAAmIAAAAJ&view_op=list_works&sortby=pubdate) ||        [**[Linkedin]**](https://www.linkedin.com/in/lei-wang-88810a3a/) ||        [**[CV]**](/assets/files/LeiWang_CV.pdf) <br>
 
