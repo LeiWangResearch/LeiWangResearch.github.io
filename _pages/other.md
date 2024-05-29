@@ -5,12 +5,7 @@ permalink: /ServiceAndAward/
 nav: true
 ---
 
-**Membership in Professional Organizations**
-- Institute for Operations Research and the Management Sciences (INFORMS)
-- Information Systems Society (ISS)
-- Association of Information Systems (AIS)
-- Production and Operations Management Society (POMS)
-<br>
+
 
 **Awards and Honors**
 - Nunamaker-Chen Dissertation Award, INFORMS Information Systems Society, 2015
@@ -65,3 +60,10 @@ nav: true
 - International Conference on Information Systems (ICIS), 2012-2023
 - Workshop on Information Technology and Systems (WITS), 2013-2023
 - Hawaii International Conference on System Sciences (HICSS), 2014-2023
+<be>
+
+**Membership in Professional Organizations**
+- Institute for Operations Research and the Management Sciences (INFORMS)
+- Information Systems Society (ISS)
+- Association of Information Systems (AIS)
+- Production and Operations Management Society (POMS)
