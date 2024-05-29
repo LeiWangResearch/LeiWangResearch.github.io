@@ -5,6 +5,22 @@ permalink: /other/
 nav: true
 ---
 
+## Membership in Professional Organizations
+- Institute for Operations Research and the Management Sciences (INFORMS)
+- Information Systems Society (ISS)
+- Association of Information Systems (AIS)
+- Production and Operations Management Society (POMS)
+  
+## Awards and Honors
+- Nunamaker-Chen Dissertation Award, INFORMS Information Systems Society, 2015
+- OPIM Outstanding PhD Student Scholar Award, UConn, 2013, 2012
+- OPIM Outstanding PhD Student Teaching Award, UConn, 2012
+- Doctoral Dissertation Fellowship, UConn, 2012
+
+## Research Grants and Proposals
+- Smeal Small Research Grant, Smeal College of Business, Penn State, $1950, 2017.
+- Smeal Small Research Grant, Smeal College of Business, Penn State, $2000, 2014.
+
 
 ## Invited Talks
 - Lehigh University, College of Business, 2023.
@@ -15,16 +31,6 @@ nav: true
 - Pennsylvania State University, Smeal College of Business, 2014.
 - Iowa State University, College of Business, 2014.
 - University of Wisconsin-Milwaukee, Sheldon B. Lubar School of Business, 2014.
-
-## Awards and Honors
-- Nunamaker-Chen Dissertation Award, INFORMS Information Systems Society, 2015
-- OPIM Outstanding PhD Student Scholar Award, UConn, 2013, 2012
-- OPIM Outstanding PhD Student Teaching Award, UConn, 2012
-- Doctoral Dissertation Fellowship, UConn, 2012
-
-## Research Grants and Proposals
-- Smeal Small Research Grant, Smeal College of Business, Penn State, $1950, 2017.
-- Smeal Small Research Grant, Smeal College of Business, Penn State, $2000, 2014.
 
 ## Journal Editor
 - Associate Editor, Decision Support Systems, 2023-Present
@@ -39,7 +45,7 @@ nav: true
 - Session Chair, INFORMS Annual Conference, 2015, 2016, 2020
 - Discussant, Workshop on Information Systems and Economics (WISE), 2021
 
-## Journal Referee
+## Journal Reviewer
 - Management Science
 - MIS Quarterly
 - Information Systems Research
@@ -54,8 +60,4 @@ nav: true
 - Workshop on Information Technology and Systems (WITS), 2013-2023
 - Hawaii International Conference on System Sciences (HICSS), 2014-2023
 
-## Membership in Professional Organizations
-- Institute for Operations Research and the Management Sciences (INFORMS)
-- Information Systems Society (ISS)
-- Association of Information Systems (AIS)
-- Production and Operations Management Society (POMS)
+
