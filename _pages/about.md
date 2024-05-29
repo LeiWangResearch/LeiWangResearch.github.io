@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 
+title: about
 permalink: /
 description: 
 
@@ -18,17 +18,15 @@ Phone Number: 814-867-5838<br>
 Email Address: lei.wang@psu.edu<br>
 
  
-[Google scholar](https://scholar.google.com/citations?hl=en&user=wJNAAmIAAAAJ&view_op=list_works&sortby=pubdate)   ||   [Linkedin](https://www.linkedin.com/in/lei-wang-88810a3a/)   ||   [CV](/assets/files/lei.wang.cv.pdf) <br>
-
-Lei Wang is an Assistant Professor of Information Systems at the Smeal College of Business, Pennsylvania State University. She received her Ph.D. degree in Operations and Information Management from the University of Connecticut, a master's degree in Economics, and a bachelor's degree in Electrical Engineering. Her research interests include artificial intelligence (AI), digital platform, gamification, digital commerce, and user engagement. Her work has appeared in leading journals, such as MIS Quarterly, Information Systems Research, Production and Operations Management, and Decision Support Systems. She has been awarded the INFORMS ISS Nunamaker-Chen Dissertation Award in 2015. She currently serves as an Associate Editor for Decision Support Systems. In addition, Lei is an ad-hoc reviewer for Management Science, Information Systems Research, MIS Quarterly, Production and Operations Management, Journal of Management Information Systems, Decision Support Systems, and Service Science. She also serves as an associate editor, session chair, discussant, or program committee member for conferences including ICIS, CIST, WITS, WISE, CSWIM, and PACIS.
+[Google scholar](https://scholar.google.com/citations?hl=en&user=wJNAAmIAAAAJ&view_op=list_works&sortby=pubdate)   ||   [Linkedin](https://www.linkedin.com/in/lei-wang-88810a3a/)   ||   [CV](/assets/files/lei.wang.cv.pdf) <be>
 <br>
-<be>
+<br>
+
+Lei Wang is an Assistant Professor of Information Systems at the Smeal College of Business, Pennsylvania State University. She received her Ph.D. degree in Operations and Information Management from the University of Connecticut, a master's degree in Economics, and a bachelor's degree in Electrical Engineering. Her research interests include artificial intelligence (AI), digital platform, gamification, digital commerce, and user engagement. Her work has appeared in leading journals, such as MIS Quarterly, Information Systems Research, Production and Operations Management, and Decision Support Systems. She has been awarded the INFORMS ISS Nunamaker-Chen Dissertation Award in 2015. She currently serves as an Associate Editor for Decision Support Systems. In addition, Lei is an ad-hoc reviewer for Management Science, Information Systems Research, MIS Quarterly, Production and Operations Management, Journal of Management Information Systems, Decision Support Systems, and Service Science. She also serves as an associate editor, session chair, discussant, or program committee member for conferences including ICIS, CIST, WITS, WISE, CSWIM, and PACIS.<br>
 
 **Research Interests**
 - Topics: Artificial Intelligence (AI), Digital Platform, Gamification, Digital Commerce, User Engagement
 - Methodology: Machine Learning, Statistical Modeling, Field and Lab Experiments, Applied Econometrics
-<br>
-<br>
 
 **Journal Publications**
 8. Shankar, R., Wang, L., Gunasti, K., Li, H. (2024). Nonverbal Peer Feedback and User Contribution in Online Forums: Experimental Evidence of the Role of Attribution and Emotions. *Journal of the Association for Information Systems, 25(2), 267-303*.
@@ -44,12 +42,11 @@ Lei Wang is an Assistant Professor of Information Systems at the Smeal College o
 2. Wang, L., Gopal, R., Shankar, R., Pancras, J. (2015). On the brink: Predicting Business Failure with Mobile Location-Based Checkins. *Decision Support Systems, 76, 3-13*.
 1. Ba, S., Wang, L. (2013). Digital Health Communities: The Effect of Their Motivation Mechanisms. *Decision Support Systems, 55, 941-947*.
    - Authors are listed alphabetically
-   - 
 <br>
 <br>
 
 
-## Papers Under Review
+**Papers Under Review**
 4. Wang, L., Zhang, Y., Ho, Y. Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing. (Under preparation for the third round review at Information Systems Research)
    - SSRN Top Ten Download List
 3. Liu, Y., Wang, L., Yang, S., Wang, Y. AI-Powered Digital Streamers for Online Retail: Empirical Evidence and Design Strategies Through Experiments (Under the second round review at Information Systems Research)
@@ -59,7 +56,7 @@ Lei Wang is an Assistant Professor of Information Systems at the Smeal College o
 <br>
 <br>
 
-## Working Papers and Work-in-Progress
+**Working Papers and Work-in-Progress**
 1. Free No More: The Impact of Free Trial Termination on User Engagement in Generative AI Platforms (with Lee, B.)
 2. From Parrots to Picassos: Community-Driven Learning of Generative AI Prompt Skills (with Huang, L.)
 3. Where and When They Come From Matters: Exploring Drivers of Customer Purchases in Live Streaming (with Tian, J., Lin, Q., Jia, N.)
@@ -70,14 +67,14 @@ Lei Wang is an Assistant Professor of Information Systems at the Smeal College o
 <br>
 <br>
 
-## Education
+**Education**
 - Ph.D., Operations and Information Management, University of Connecticut, 2014
 - M.S., Economics, Xi’an Jiaotong University, 2008
 - B.S., Electrical Engineering, Nanjing University of Science and Technology, 2005
 <br>
 <br>
 
-## Awards and Honors
+**Awards and Honors**
 - SSRN Top Ten Download List, Social Science Research Network, 2023
 - Nunamaker-Chen Dissertation Award, INFORMS Information Systems Society, 2015
 - OPIM Outstanding PhD Student Scholar Award, UConn, 2013, 2012
@@ -86,7 +83,7 @@ Lei Wang is an Assistant Professor of Information Systems at the Smeal College o
 <br>
 <br>
 
-## Membership in Professional Organizations
+**Membership in Professional Organizations**
 - Institute for Operations Research and the Management Sciences (INFORMS)
 - Information Systems Society (ISS)
 - Association of Information Systems (AIS)
@@ -94,10 +91,10 @@ Lei Wang is an Assistant Professor of Information Systems at the Smeal College o
 <br>
 <br>
 
-## Journal Editor
+**Journal Editor**
 - **Associate Editor,** Decision Support Systems, 2023-Present
 
-## Journal Reviewer
+**Journal Reviewer**
 - Management Science
 - MIS Quarterly
 - Information Systems Research
