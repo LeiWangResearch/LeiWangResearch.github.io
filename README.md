@@ -1,9 +1,13 @@
 ---
-layout: 
+layout: about
 title: 
-permalink: 
+permalink: /
 description: 
 
+profile:
+  align: left
+  image: me2.png
+  address: 
 profile:
   align: left
   image: lei.wang.professional.jpg
