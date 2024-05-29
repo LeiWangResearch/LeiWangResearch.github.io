@@ -17,14 +17,14 @@ social: false  # includes social icons at the bottom of the page
 Department Supply Chain & Information Systems<br>
 Smeal College of Business<br>
 Pennsylvania State University, University Park<br>
-Office: 426 Business Building<br>
-Phone: 814-867-5838<br>
-Email: lei.michelle.wang@gmail.com<br>
+**Office**: 426 Business Building<br>
+**Phone**: 814-867-5838<br>
+**Email**: lei.michelle.wang@gmail.com<br>
+[**[Google Scholar]**](https://scholar.google.com/citations?hl=en&user=wJNAAmIAAAAJ&view_op=list_works&sortby=pubdate) ||        [**[Linkedin]**](https://www.linkedin.com/in/lei-wang-88810a3a/) ||        [**[CV]**](/assets/files/LeiWang_CV.pdf) <be>
 
-[**[Google Scholar]**](https://scholar.google.com/citations?hl=en&user=wJNAAmIAAAAJ&view_op=list_works&sortby=pubdate) ||        [**[Linkedin]**](https://www.linkedin.com/in/lei-wang-88810a3a/) ||        [**[CV]**](/assets/files/LeiWang_CV.pdf) <br>
 <br>
 <br>
-
+<br>
 
 **Dr. Lei Wang** is an Assistant Professor of Information Systems at the Smeal College of Business, Pennsylvania State University. She holds a Ph.D. in Operations and Information Management from the School of Business at the University of Connecticut, complemented by a master's degree in Economics and a bachelor's degree in Electrical Engineering.
 
