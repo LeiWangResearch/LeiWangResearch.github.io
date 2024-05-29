@@ -21,9 +21,9 @@ nav: true
 - **Wang, L.**, Gopal, R., Shankar, R., Pancras, J. (2022). Understanding Venue Popularity on Location-Based Services Using Interpretable Machine Learning. **Production and Operations Management**, 31(7), 2773-2788.
    - Selected to be the lead article for the July 2022 Issue
 - Guo, H., Zhang, D., Liu, S., **Wang, L.**, Ding, Y. (2021). Cryptocurrency Price Decryption: An Underlying Blockchain Perspective. **Decision Support Systems**, 151, 113650.
-- **Wang, L.**, Gunasti, K., Shankar, R., Pancras, J., Gopal, R. (2020). Impact of Gamification on Perceptions of Word-of-Mouth Contributors and Actions of Word-of-Mouth Consumers. *MIS Quarterly**, 44(4), 1987-2011.
-- **Wang, L.**, Gopal, R., Shankar, R., Pancras, J. (2015). On the brink: Predicting Business Failure with Mobile Location-Based Checkins. *Decision Support Systems**, 76, 3-13*.
-- Ba, S., **Wang, L.** (2013). Digital Health Communities: The Effect of Their Motivation Mechanisms. *Decision Support Systems**, 55, 941-947.
+- **Wang, L.**, Gunasti, K., Shankar, R., Pancras, J., Gopal, R. (2020). Impact of Gamification on Perceptions of Word-of-Mouth Contributors and Actions of Word-of-Mouth Consumers. **MIS Quarterly**, 44(4), 1987-2011.
+- **Wang, L.**, Gopal, R., Shankar, R., Pancras, J. (2015). On the brink: Predicting Business Failure with Mobile Location-Based Checkins. **Decision Support Systems**, 76, 3-13*.
+- Ba, S., **Wang, L.** (2013). Digital Health Communities: The Effect of Their Motivation Mechanisms. **Decision Support Systems**, 55, 941-947.
    - Authors are listed alphabetically
 
 ## Papers Under Review
