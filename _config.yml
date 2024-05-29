@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Lei Wang, PhD
 first_name: Lei
 middle_name: 
 last_name: Wang
@@ -13,12 +13,12 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🐼 # the emoji used as the favicon
-url: https://leiwangresearch.github.io/ #https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: true # set to true if you want to display last updated in the footer
-impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+lang: en     # the language of your site (for example: en, fr, cn, ru, etc.)
+icon:       # the emoji used as the favicon
+url: https://leiwangresearch.github.io/ 
+baseurl:    # the subpath of your site, e.g. /blog/
+last_updated: true   # set to true if you want to display last updated in the footer
+impressum_path:    # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -49,11 +49,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: jindongwang # your GitHub user name
+github_username: leiwangresearch # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: jd92wang # your Twitter handle
+twitter_username:  # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: hBZ_tKsAAAAJ # your Google Scholar ID
+scholar_userid: wJNAAmIAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -63,23 +63,23 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-dblp_url: https://dblp.org/pid/19/2969-1.html # your DBLP profile url
-stackoverflow_id: #your stackoverflow id
+dblp_url: #
+stackoverflow_id:#
 
-rss_icon: true
+rss_icon: false
 
 contact_note: 
   #You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: G-LRLQJKW7E9 # out your google-analytics code
-panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
+google_analytics:  # out your google-analytics code
+panelbear_analytics: # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-# blog_name: Jindong Wang  # your blog must have a name for it to show up in the nav bar
-# blog_description: Jindong Wang's personal website
+# blog_name: Lei Wang  # your blog must have a name for it to show up in the nav bar
+# blog_description: Lei Wang's personal website
 # permalink: /blog/:year/:title/
 
 # Pagination
@@ -184,7 +184,7 @@ jekyll-archives:
 scholar:
 
   last_name: Wang
-  first_name: Jindong
+  first_name: Lei
 
   style: apa
   locale: en
@@ -244,11 +244,11 @@ enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            false   # enables switching between light/dark modes
-enable_navbar_social:       true  # enables displaying social links in the
+enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
-enable_project_categories:  true   # enables categorization of projects into
+enable_project_categories:  false   # enables categorization of projects into
                                    # multiple categories
-enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
+enable_medium_zoom:         false   # enables image zoom feature (as on medium.com)
 
 
 # -----------------------------------------------------------------------------
