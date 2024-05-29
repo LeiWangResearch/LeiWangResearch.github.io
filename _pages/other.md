@@ -14,7 +14,7 @@ nav: true
 - Doctoral Dissertation Fellowship, UConn, 2012
 <br>
 
-**Research Grants and Proposals**
+**Research Grants**
 - Smeal Small Research Grant, Smeal College of Business, Penn State, $1950, 2017.
 - Smeal Small Research Grant, Smeal College of Business, Penn State, $2000, 2014.
 <br>
