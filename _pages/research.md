@@ -7,47 +7,47 @@ nav: true
 ---
 
 ## Research Interests
-- **Topics**: Artificial Intelligence (AI), Digital Platform, Gamification, Digital Commerce, User Engagement
+- **Topics**: Artificial Intelligence (AI), Digital Platform, Gamification, Digital Commerce, User Engagement<br>
 - **Methodology**: Machine Learning, Statistical Modeling, Field and Lab Experiments, Applied Econometrics
-<br>
 
-## Journal Publications
-- Shankar, R., **Wang, L.**, Gunasti, K., Li, H. (2024). [Nonverbal Peer Feedback and User Contribution in Online Forums: Experimental Evidence of the Role of Attribution and Emotions](https://aisel.aisnet.org/jais/vol25/iss2/7/). **Journal of the Association for Information Systems**, 25(2), 267-303.
-- Zhao, X., Huang, L., **Wang, L.***, Yazdani, E., Zhang, C. (2023). [Understanding of the Dynamics of Mobile Reading: An HMM Model of User Engagement and Content Consumption](https://doi.org/10.1111/poms.13964). **Production and Operations Management**. Forthcoming.
+
+### Journal Publications
+8. Shankar, R., **Wang, L.**, Gunasti, K., Li, H. (2024). [Nonverbal Peer Feedback and User Contribution in Online Forums: Experimental Evidence of the Role of Attribution and Emotions](https://aisel.aisnet.org/jais/vol25/iss2/7/). **Journal of the Association for Information Systems**, 25(2), 267-303.
+7. Zhao, X., Huang, L., **Wang, L.***, Yazdani, E., Zhang, C. (2023). [Understanding of the Dynamics of Mobile Reading: An HMM Model of User Engagement and Content Consumption](https://doi.org/10.1111/poms.13964). **Production and Operations Management**. Forthcoming.
    - Promoted by [Penn State Smeal Research](https://www.psu.edu/news/smeal-college-business/story/penn-state-smeal-research-reveals-factors-affect-mobile-reader/)
    - Corresponding author
-- Ho, Y., Liu, S., **Wang, L.** (2023). [Fun Shopping - A Randomized Field Experiment of Gamification](https://pubsonline.informs.org/doi/pdf/10.1287/isre.2022.1147). **Information Systems Research**, 34(2), 766-785.
+6. Ho, Y., Liu, S., **Wang, L.** (2023). [Fun Shopping - A Randomized Field Experiment of Gamification](https://pubsonline.informs.org/doi/pdf/10.1287/isre.2022.1147). **Information Systems Research**, 34(2), 766-785.
    - Authors are listed alphabetically
-- **Wang, L.**, Gopal, R., Shankar, R., Pancras, J. (2022). [Forecasting venue popularity on location-based services using interpretable machine learning](https://doi.org/10.1111/poms.13727). **Production and Operations Management**, 31(7), 2773-2788.
+5. **Wang, L.**, Gopal, R., Shankar, R., Pancras, J. (2022). [Forecasting venue popularity on location-based services using interpretable machine learning](https://doi.org/10.1111/poms.13727). **Production and Operations Management**, 31(7), 2773-2788.
    - Selected to be the lead article for the July 2022 Issue
-- Guo, H., Zhang, D., Liu, S., **Wang, L.**, Ding, Y. (2021). [Cryptocurrency Price Decryption: An Underlying Blockchain Perspective](https://doi.org/10.1016/j.dss.2021.113650). **Decision Support Systems**, 151, 113650.
-- **Wang, L.**, Gunasti, K., Shankar, R., Pancras, J., Gopal, R. (2020). [Impact of Gamification on Perceptions of Word-of-Mouth Contributors and Actions of Word-of-Mouth Consumers](https://misq.umn.edu/impact-of-gamification-on-perceptions-of-word-of-moutn-contributors-and-actions-of-word-of-mouth-consumers.html). **MIS Quarterly**, 44(4), 1987-2011.
-- **Wang, L.**, Gopal, R., Shankar, R., Pancras, J. (2015). [On the brink: Predicting Business Failure with Mobile Location-Based Checkins](https://doi.org/10.1016/j.dss.2015.04.010). **Decision Support Systems**, 76, 3-13*.
-- Ba, S., **Wang, L.** (2013). [Digital Health Communities: The Effect of Their Motivation Mechanisms](https://doi.org/10.1016/j.dss.2013.01.003). **Decision Support Systems**, 55, 941-947.
+4. Guo, H., Zhang, D., Liu, S., **Wang, L.**, Ding, Y. (2021). [Cryptocurrency Price Decryption: An Underlying Blockchain Perspective](https://doi.org/10.1016/j.dss.2021.113650). **Decision Support Systems**, 151, 113650.
+3. **Wang, L.**, Gunasti, K., Shankar, R., Pancras, J., Gopal, R. (2020). [Impact of Gamification on Perceptions of Word-of-Mouth Contributors and Actions of Word-of-Mouth Consumers](https://misq.umn.edu/impact-of-gamification-on-perceptions-of-word-of-moutn-contributors-and-actions-of-word-of-mouth-consumers.html). **MIS Quarterly**, 44(4), 1987-2011.
+2. **Wang, L.**, Gopal, R., Shankar, R., Pancras, J. (2015). [On the brink: Predicting Business Failure with Mobile Location-Based Checkins](https://doi.org/10.1016/j.dss.2015.04.010). **Decision Support Systems**, 76, 3-13*.
+1. Ba, S., **Wang, L.** (2013). [Digital Health Communities: The Effect of Their Motivation Mechanisms](https://doi.org/10.1016/j.dss.2013.01.003). **Decision Support Systems**, 55, 941-947.
    - Authors are listed alphabetically
 <br>
 
-## Papers Under Review
-- **Wang, L.**, Zhang, Y., Ho, Y. Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing. (Under preparation for the third round review at **Information Systems Research**)
+### Papers Under Review
+1. **Wang, L.**, Zhang, Y., Ho, Y. Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing. (Under preparation for the third round review at **Information Systems Research**)
    - SSRN Top Ten Download List
-- Liu, Y., **Wang, L.**, Yang, S., Wang, Y. AI-Powered Digital Streamers for Online Retail: Empirical Evidence and Design Strategies Through Experiments (Under the second round review at **Information Systems Research**)
-- Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work (Under the first round review at **Information Systems Research**)
+2. Liu, Y., **Wang, L.**, Yang, S., Wang, Y. AI-Powered Digital Streamers for Online Retail: Empirical Evidence and Design Strategies Through Experiments (Under the second round review at **Information Systems Research**)
+3. Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work (Under the first round review at **Information Systems Research**)
    - Co-first authors, listed alphabetically
-- **Wang, L.**, Huang, L., Gopal, R. From Exposure to Expression: The Influence of NSFW Content on User Interaction Dynamics in Generative AI and its Implications for Moderation (Under the first round review at **Information Systems Research**)
+4. **Wang, L.**, Huang, L., Gopal, R. From Exposure to Expression: The Influence of NSFW Content on User Interaction Dynamics in Generative AI and its Implications for Moderation (Under the first round review at **Information Systems Research**)
 <br>
 
-## Work-in-Progress
-- Free No More: The Impact of Free Trial Termination on User Engagement in Generative AI Platforms (with Lee, B.)
-- From Parrots to Picassos: Community-Driven Learning of Generative AI Prompt Skills (with Huang, L.)
-- Where and When They Come From Matters: Exploring Drivers of Customer Purchases in Live Streaming (with Tian, J., Lin, Q., Jia, N.)
-- Utilizing Gamification Designs to Enhance Student Engagement in Co-Curricular Activities (with Zhang, Y., Jackson, J., Phillips, R.)
-- Unveiling the Eco-Friendly Future of Agriculture: The Role of IT in Enlightening Underprivileged group in Rural China (with Yu, S.)
-- From Casual Strollers to Hardcore Sprinters: The Marathon of Game Engagement on Steam (with Zhang, Y.)
-- Freemium and Beyond: Optimal Quantity Analysis for Free Sample in Digital Products (with Huang, L., Zhao, X., Zhang, C.)
+### Work-in-Progress
+1. Free No More: The Impact of Free Trial Termination on User Engagement in Generative AI Platforms (with Lee, B.)
+2. From Parrots to Picassos: Community-Driven Learning of Generative AI Prompt Skills (with Huang, L.)
+3. Where and When They Come From Matters: Exploring Drivers of Customer Purchases in Live Streaming (with Tian, J., Lin, Q., Jia, N.)
+4. Utilizing Gamification Designs to Enhance Student Engagement in Co-Curricular Activities (with Zhang, Y., Jackson, J., Phillips, R.)
+5. Unveiling the Eco-Friendly Future of Agriculture: The Role of IT in Enlightening Underprivileged group in Rural China (with Yu, S.)
+6. From Casual Strollers to Hardcore Sprinters: The Marathon of Game Engagement on Steam (with Zhang, Y.)
+7. Freemium and Beyond: Optimal Quantity Analysis for Free Sample in Digital Products (with Huang, L., Zhao, X., Zhang, C.)
 <br>
 
 
-## Conference Papers and Presentations
+### Conference Papers and Presentations
 1. Hou, J., Wang, L., Wang, G., Wang, J., Yang, S. The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work. Wharton’s AI and the Future of Work conference, May 2024.
 2. Wang, L., Huang, L., Gopal, R. Understanding the NSFW Conundrum in Generative AI: How It Affects User Responses and Moderation Tactics. Biz AI Conference: AI Applications in Business Research, March 3024.
 3. Wang, L., Zhang, Y., Ho, Y. Game for Brainstorm: The Impact of a Badge System on Knowledge Sharing. Conference on Information Systems and Technology (CIST), October 2023.
