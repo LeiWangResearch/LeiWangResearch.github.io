@@ -9,7 +9,7 @@ nav: true
 ## Research Interests
 - **Topics**: Artificial Intelligence (AI), Digital Platform, Gamification, Digital Commerce, User Engagement
 - **Methodology**: Machine Learning, Statistical Modeling, Field and Lab Experiments, Applied Econometrics
-
+<br>
 
 ## Journal Publications
 - Shankar, R., **Wang, L.**, Gunasti, K., Li, H. (2024). [Nonverbal Peer Feedback and User Contribution in Online Forums: Experimental Evidence of the Role of Attribution and Emotions](https://aisel.aisnet.org/jais/vol25/iss2/7/). **Journal of the Association for Information Systems**, 25(2), 267-303.
@@ -25,6 +25,7 @@ nav: true
 - **Wang, L.**, Gopal, R., Shankar, R., Pancras, J. (2015). On the brink: Predicting Business Failure with Mobile Location-Based Checkins. **Decision Support Systems**, 76, 3-13*.
 - Ba, S., **Wang, L.** (2013). Digital Health Communities: The Effect of Their Motivation Mechanisms. **Decision Support Systems**, 55, 941-947.
    - Authors are listed alphabetically
+<br>
 
 ## Papers Under Review
 - **Wang, L.**, Zhang, Y., Ho, Y. Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing. (Under preparation for the third round review at **Information Systems Research**)
@@ -33,6 +34,7 @@ nav: true
 - Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work (Under the first round review at **Information Systems Research**)
    - Co-first authors, listed alphabetically
 - **Wang, L.**, Huang, L., Gopal, R. From Exposure to Expression: The Influence of NSFW Content on User Interaction Dynamics in Generative AI and its Implications for Moderation (Under the first round review at **Information Systems Research**)
+<br>
 
 ## Work-in-Progress
 - Free No More: The Impact of Free Trial Termination on User Engagement in Generative AI Platforms (with Lee, B.)
@@ -42,6 +44,7 @@ nav: true
 - Unveiling the Eco-Friendly Future of Agriculture: The Role of IT in Enlightening Underprivileged group in Rural China (with Yu, S.)
 - From Casual Strollers to Hardcore Sprinters: The Marathon of Game Engagement on Steam (with Zhang, Y.)
 - Freemium and Beyond: Optimal Quantity Analysis for Free Sample in Digital Products (with Huang, L., Zhao, X., Zhang, C.)
+<br>
 
 
 ## Conference Papers and Presentations
