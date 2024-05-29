@@ -60,7 +60,7 @@ nav: true
 - International Conference on Information Systems (ICIS), 2012-2023
 - Workshop on Information Technology and Systems (WITS), 2013-2023
 - Hawaii International Conference on System Sciences (HICSS), 2014-2023
-<be>
+<br>
 
 **Membership in Professional Organizations**
 - Institute for Operations Research and the Management Sciences (INFORMS)
