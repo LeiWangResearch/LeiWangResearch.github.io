@@ -1,27 +1,90 @@
 ---
 layout: about
-title: About
+title: 
 permalink: /
 description: 
 
 profile:
   align: left
-  image: me2.png
+  image: lei.wang.professional.jpg
   address: 
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+  
 ---
 
-Senior Researcher, Microsoft Research Asia<br>
-Building 2, No. 5 Danling Street, Haidian District, Beijing, China<br>
-jindongwang [at] outlook.com, jindong.wang [at] microsoft.com<br>
-[Google scholar](https://scholar.google.com/citations?&user=hBZ_tKsAAAAJ&view_op=list_works&sortby=pubdate) | [DBLP](https://dblp.org/pid/19/2969-1.html) | [Github](https://github.com/jindongwang) || [Twitter/X](https://twitter.com/jd92wang) | [Zhihu](https://www.zhihu.com/people/jindongwang) | [Wechat](http://jd92.wang/assets/img/wechat_public_account.jpg) | [Bilibili](https://space.bilibili.com/477087194) || [CV](https://go.jd92.wang/cv) [CV (Chinese)](https://go.jd92.wang/cvchinese)
+Assistant Professor of Information Systems<br>
+Department Supply Chain & Information Systems<br>
+Office Address: 426 Business Building<br>
+Phone Number: 814-867-5838<br>
+Email Address: lei.wang@psu.edu
 
-Dr. Jindong Wang is currently a Senior Researcher at Microsoft Research Asia. He obtained his Ph.D from Institute of Computing Technology, Chinese Academy of Sciences in 2019. In 2018, he visited Prof. Qiang Yang’s group at Hong Kong University of Science and Technology. His research interest includes robust machine learning, transfer learning, semi-supervised learning, and federated learning. His recent interest is large language models. He has published over 50 papers with 10000+ citations at leading conferences and journals such as ICLR, NeurIPS, TPAMI, IJCV etc. His research is reported by [Forbes](https://www.forbes.com/sites/lanceeliot/2023/11/11/the-answer-to-why-emotionally-worded-prompts-can-goose-generative-ai-into-better-answers-and-how-to-spur-a-decidedly-positive-rise-out-of-ai/?sh=38038fb137e5) and other international media. He has several Google scholar highly cited papers, Huggingface featured papers, and paperdigest most influential papers. He received the best paper award at ICCSE'18 and IJCAI'19 federated learning workshop and the prestigous excellent Ph.D thesis award (only 1 at ICT each year). In 2023, he was selected by Stanford University as one of the [World's 2% Scientists](https://ecebm.com/2023/10/04/stanford-university-names-worlds-top-2-scientists-2023/) and one of the [AI Most Influential Scholars](https://www.aminer.cn/ai2000?domain_ids=5dc122672ebaa6faa962c2a4) by AMiner. He serves as the associate editor of IEEE Transactions on Neural Networks and Learning Systems (TNNLS), guest editor for ACM Transactions on Intelligent Systems and Technology (TIST), area chair for NeurIPS, KDD, and ACMMM, senior program committee member of IJCAI and AAAI, and reviewers for top conferences and journals like ICML, NeurIPS, ICLR, CVPR, TPAMI, AIJ etc. He leads several impactful open-source projects, including [transferlearning](https://github.com/jindongwang/transferlearning), [PromptBench](https://github.com/microsoft/promptbench), [torchSSL](https://github.com/torchssl/torchssl), [USB](https://github.com/microsoft/Semi-superised-learning), [personalizedFL](https://github.com/microsoft/PersonalizedFL), and [robustlearn](https://github.com/microsoft/robustlearn), which received over 16K stars on Github. He published a textbook [Introduction to Transfer Learning](http://jd92.wang/tlbook) to help starters quickly learn transfer learning. He gave tutorials at [IJCAI'22](https://dgresearch.github.io/), [WSDM'23](https://dgresearch.github.io/), [KDD'23](https://mltrust.github.io/), and [AAAI'24](https://ood-timeseries.github.io/).
+ 
+[Google scholar](https://scholar.google.com/citations?hl=en&user=wJNAAmIAAAAJ&view_op=list_works&sortby=pubdate) | [Linkedin](https://www.linkedin.com/in/lei-wang-88810a3a/) | [CV](/assets/files/lei.wang.cv.pdf)<br><br>
 
-**Research interest:** (See this [page](https://jd92.wang/research/) for more details)
-- Machine learning: robust machine learning, OOD / domain generalization, transfer learning, semi-supervised learning, federated learning, and related applications.
-- Large language models: LLM [evaluation](https://llm-eval.github.io/), [enhancement](https://llm-enhance.github.io/), and AI for social sciences.
-- *Interested in [internship](https://zhuanlan.zhihu.com/p/102558267) or collaboration? Contact me.* I'm experimenting a new form of research collaboration. You can click [here](https://forms.office.com/r/32Fs6uAjT6) if you are interested!
+Lei Wang is an Assistant Professor of Information Systems at the Smeal College of Business, Pennsylvania State University. She received her Ph.D. degree in Operations and Information Management from the University of Connecticut, a master's degree in Economics, and a bachelor's degree in Electrical Engineering. Her research interests include artificial intelligence (AI), digital platform, gamification, digital commerce, and user engagement. Her work has appeared in leading journals, such as MIS Quarterly, Information Systems Research, Production and Operations Management, and Decision Support Systems. She has been awarded the INFORMS ISS Nunamaker-Chen Dissertation Award in 2015. She currently serves as an Associate Editor for Decision Support Systems. In addition, Lei is an ad-hoc reviewer for Management Science, Information Systems Research, MIS Quarterly, Production and Operations Management, Journal of Management Information Systems, Decision Support Systems, and Service Science. She also serves as an associate editor, session chair, discussant, or program committee member for conferences including ICIS, CIST, WITS, WISE, CSWIM, and PACIS.<br>
+
+## Research Interests
+- Topics: Artificial Intelligence (AI), Digital Platform, Gamification, Digital Commerce, User Engagement
+- Methodology: Machine Learning, Statistical Modeling, Field and Lab Experiments, Applied Econometrics
+
+
+## Journal Publications
+1. Shankar, R., Wang, L., Gunasti, K., Li, H. (2024). Nonverbal Peer Feedback and User Contribution in Online Forums: Experimental Evidence of the Role of Attribution and Emotions. *Journal of the Association for Information Systems, 25(2), 267-303*.
+2. Zhao, X., Huang, L., Wang, L., Yazdani, E., Zhang, C. (2023). Understanding of the Dynamics of Mobile Reading: An HMM Model of User Engagement and Content Consumption. *Production and Operations Management*. Forthcoming.
+   - Promoted by Penn State Smeal Research: [https://www.psu.edu/news/smeal-college-business/story/penn-state-smeal-research-reveals-factors-affect-mobile-reader/](https://www.psu.edu/news/smeal-college-business/story/penn-state-smeal-research-reveals-factors-affect-mobile-reader/)
+   - Corresponding author
+3. Ho, Y., Liu, S., Wang, L. (2023). Fun Shopping - A Randomized Field Experiment of Gamification. *Information Systems Research, 34(2), 766-785*.
+   - Authors are listed alphabetically
+4. Wang, L., Gopal, R., Shankar, R., Pancras, J. (2022). Understanding Venue Popularity on Location-Based Services Using Interpretable Machine Learning. *Production and Operations Management, 31(7), 2773-2788*.
+   - Selected to be the lead article for the July 2022 Issue
+5. Guo, H., Zhang, D., Liu, S., Wang, L., Ding, Y. (2021). Cryptocurrency Price Decryption: An Underlying Blockchain Perspective. *Decision Support Systems, 151, 113650*.
+6. Wang, L., Gunasti, K., Shankar, R., Pancras, J., Gopal, R. (2020). Impact of Gamification on Perceptions of Word-of-Mouth Contributors and Actions of Word-of-Mouth Consumers. *MIS Quarterly, 44(4), 1987-2011*.
+7. Wang, L., Gopal, R., Shankar, R., Pancras, J. (2015). On the brink: Predicting Business Failure with Mobile Location-Based Checkins. *Decision Support Systems, 76, 3-13*.
+8. Ba, S., Wang, L. (2013). Digital Health Communities: The Effect of Their Motivation Mechanisms. *Decision Support Systems, 55, 941-947*.
+   - Authors are listed alphabetically
+
+## Papers Under Review
+1. Wang, L., Zhang, Y., Ho, Y. Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing. (Under preparation for the third round review at Information Systems Research)
+   - SSRN Top Ten Download List
+2. Liu, Y., Wang, L., Yang, S., Wang, Y. AI-Powered Digital Streamers for Online Retail: Empirical Evidence and Design Strategies Through Experiments (Under the second round review at Information Systems Research)
+3. Hou, J., Wang, L., Wang, G., Wang, J., Yang, S. The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work (Under the first round review at Information Systems Research)
+   - Co-first authors, listed alphabetically
+4. Wang, L., Huang, L., Gopal, R. From Exposure to Expression: The Influence of NSFW Content on User Interaction Dynamics in Generative AI and its Implications for Moderation (Under the first round review at Information Systems Research)
+
+## Working Papers and Work-in-Progress
+1. Free No More: The Impact of Free Trial Termination on User Engagement in Generative AI Platforms (with Lee, B.)
+2. From Parrots to Picassos: Community-Driven Learning of Generative AI Prompt Skills (with Huang, L.)
+3. Where and When They Come From Matters: Exploring Drivers of Customer Purchases in Live Streaming (with Tian, J., Lin, Q., Jia, N.)
+4. Utilizing Gamification Designs to Enhance Student Engagement in Co-Curricular Activities (with Zhang, Y., Jackson, J., Phillips, R.)
+5. Unveiling the Eco-Friendly Future of Agriculture: The Role of IT in Enlightening Underprivileged group in Rural China (with Yu, S.)
+6. From Casual Strollers to Hardcore Sprinters: The Marathon of Game Engagement on Steam (with Zhang, Y.)
+7. Freemium and Beyond: Optimal Quantity Analysis for Free Sample in Digital Products (with Huang, L., Zhao, X., Zhang, C.)
+
+## Education
+- Ph.D., Operations and Information Management, University of Connecticut, 2014
+- M.S., Economics, Xi’an Jiaotong University, 2008
+- B.S., Electrical Engineering, Nanjing University of Science and Technology, 2005
+
+## Awards and Honors
+- SSRN Top Ten Download List, Social Science Research Network, 2023
+- Nunamaker-Chen Dissertation Award, INFORMS Information Systems Society, 2015
+- OPIM Outstanding PhD Student Scholar Award, UConn, 2013, 2012
+- OPIM Outstanding PhD Student Teaching Award, UConn, 2012
+- Doctoral Dissertation Fellowship, UConn, 2012
+  
+## Membership in Professional Organizations
+- Institute for Operations Research and the Management Sciences (INFORMS)
+- Information Systems Society (ISS)
+- Association of Information Systems (AIS)
+- Production and Operations Management Society (POMS)
+
+## Journal Editor
+- **Associate Editor,** Decision Support Systems, 2023-Present
+
+## Journal Referee
+- Management Science
+- MIS Quarterly
+- Information Systems Research
+- Journal of Management Information Systems
+- Production and Operations Management
+- Service Science
+- Decision Support Systems
