@@ -8,8 +8,12 @@ p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
 
+p, h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 2 rem;  // Adjust this value to increase or decrease spacing
+}
+
 li {
-  margin-bottom: 1.5rem;  // Adjust this value to increase or decrease spacing
+  margin-bottom: 1.3 rem;  // Adjust this value to increase or decrease spacing
 }
 
 hr {
