@@ -27,7 +27,7 @@ nav: true
    - Authors are listed alphabetically
 <br>
 
-### Papers Under Review
+#### Papers Under Review
 1. **Wang, L.**, Zhang, Y., Ho, Y. Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing. (Under preparation for the third round review at **Information Systems Research**)
    - SSRN Top Ten Download List
 1. Liu, Y., **Wang, L.**, Yang, S., Wang, Y. AI-Powered Digital Streamers for Online Retail: Empirical Evidence and Design Strategies Through Experiments (Under the second round review at **Information Systems Research**)
