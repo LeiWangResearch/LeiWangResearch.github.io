@@ -6,11 +6,6 @@ description:
 nav: true
 ---
 
-#### Research Interests
-- **Topics**: Artificial Intelligence (AI), Digital Platform, Gamification, Digital Commerce, User Engagement<br>
-- **Methodology**: Machine Learning, Statistical Modeling, Field and Lab Experiments, Applied Econometrics
-
-
 #### Journal Publications
 1. Shankar, R., **Wang, L.**, Gunasti, K., Li, H. (2024). [Nonverbal Peer Feedback and User Contribution in Online Forums: Experimental Evidence of the Role of Attribution and Emotions](https://aisel.aisnet.org/jais/vol25/iss2/7/). **Journal of the Association for Information Systems**, 25(2), 267-303.
 1. Zhao, X., Huang, L., **Wang, L.***, Yazdani, E., Zhang, C. (2023). [Understanding of the Dynamics of Mobile Reading: An HMM Model of User Engagement and Content Consumption](https://doi.org/10.1111/poms.13964). **Production and Operations Management**. Forthcoming.
