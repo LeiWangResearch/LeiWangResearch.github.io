@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-#### Journal Publications
+### Journal Publications
 1. Shankar, R., **Wang, L.**, Gunasti, K., Li, H. (2024). [Nonverbal Peer Feedback and User Contribution in Online Forums: Experimental Evidence of the Role of Attribution and Emotions](https://aisel.aisnet.org/jais/vol25/iss2/7/). ***Journal of the Association for Information Systems***, 25(2), 267-303.
 1. Zhao, X., Huang, L., **Wang, L.**, Yazdani, E., Zhang, C. (2023). [Understanding of the Dynamics of Mobile Reading: An HMM Model of User Engagement and Content Consumption](https://doi.org/10.1111/poms.13964). ***Production and Operations Management***. Forthcoming. [**Corresponding author**], [**[Research News](https://www.psu.edu/news/smeal-college-business/story/penn-state-smeal-research-reveals-factors-affect-mobile-reader/)**], [**UTD24**, **FT50**]
 1. Ho, Y., Liu, S., **Wang, L.** (Listed Alphabetically) (2023). [Fun Shopping - A Randomized Field Experiment of Gamification](https://pubsonline.informs.org/doi/pdf/10.1287/isre.2022.1147). ***Information Systems Research***, 34(2), 766-785.  [**UTD24**, **FT50**]
@@ -17,14 +17,14 @@ nav: true
 1. Ba, S., **Wang, L.**  (Listed Alphabetically) (2013). [Digital Health Communities: The Effect of Their Motivation Mechanisms](https://doi.org/10.1016/j.dss.2013.01.003). ***Decision Support Systems***, 55, 941-947.
 <br>
 
-#### Papers Under Review
+### Papers Under Review
 1. **Wang, L.**, Zhang, Y., Ho, Y. Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing. (Under preparation for the third round review at ***Information Systems Research***) 
 1. Liu, Y., **Wang, L.**, Yang, S., Wang, Y. AI-Powered Digital Streamers for Online Retail: Empirical Evidence and Design Strategies Through Experiments (Under the second round review at ***Information Systems Research***)
 1. Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work (Under the first round review at ***Information Systems Research***)
 1. **Wang, L.**, Huang, L., Gopal, R. From Exposure to Expression: The Influence of NSFW Content on User Interaction Dynamics in Generative AI and its Implications for Moderation (Under the first round review at ***Information Systems Research***)
 <br>
 
-#### Work-in-Progress
+### Work-in-Progress
 1. Free No More: The Impact of Free Trial Termination on User Engagement in Generative AI Platforms (with Lee, B.)
 1. From Parrots to Picassos: Community-Driven Learning of Generative AI Prompt Skills (with Huang, L.)
 1. Where and When They Come From Matters: Exploring Drivers of Customer Purchases in Live Streaming (with Tian, J., Lin, Q., Jia, N.)
@@ -35,7 +35,7 @@ nav: true
 <br>
 
 
-#### Conference Papers and Presentations
+### Conference Papers and Presentations
 1. Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work. Wharton’s AI and the Future of Work conference, May 2024.
 1. **Wang, L.**, Huang, L., Gopal, R. Understanding the NSFW Conundrum in Generative AI: How It Affects User Responses and Moderation Tactics. Biz AI Conference: AI Applications in Business Research, March 3024.
 1. **Wang, L.**, Zhang, Y., Ho, Y. Game for Brainstorm: The Impact of a Badge System on Knowledge Sharing. Conference on Information Systems and Technology (CIST), October 2023.
