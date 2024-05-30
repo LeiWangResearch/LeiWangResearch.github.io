@@ -20,7 +20,7 @@ Pennsylvania State University, University Park<br>
 **Office**: 426 Business Building<br>
 **Phone**: 814-867-5838<br>
 **Email**: lei.michelle.wang@gmail.com<br>
-[**[Google Scholar]**](https://scholar.google.com/citations?hl=en&user=wJNAAmIAAAAJ&view_op=list_works&sortby=pubdate) ||        [**[Linkedin]**](https://www.linkedin.com/in/lei-wang-88810a3a/) ||        [**[CV]**](/assets/files/LeiWang_CV.pdf) <be>
+[**[Google Scholar]**](https://scholar.google.com/citations?hl=en&user=wJNAAmIAAAAJ&view_op=list_works&sortby=pubdate) |        [**[Linkedin]**](https://www.linkedin.com/in/lei-wang-88810a3a/) |        [**[CV]**](/assets/files/LeiWang_CV.pdf) <be>
 
 <br>
 <br>
