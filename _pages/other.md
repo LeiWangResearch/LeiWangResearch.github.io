@@ -5,6 +5,7 @@ permalink: /ServiceAndAward/
 nav: true
 ---
 
+
 ### Awards and Honors
 - Nunamaker-Chen Dissertation Award, INFORMS Information Systems Society, 2015
 - OPIM Outstanding PhD Student Scholar Award, UConn, 2013, 2012
@@ -53,7 +54,7 @@ nav: true
 - Workshop on Information Technology and Systems (WITS), 2013-2023
 - Hawaii International Conference on System Sciences (HICSS), 2014-2023
 
-**Membership in Professional Organizations**
+### Membership in Professional Organizations
 - Institute for Operations Research and the Management Sciences (INFORMS)
 - Information Systems Society (ISS)
 - Association of Information Systems (AIS)
