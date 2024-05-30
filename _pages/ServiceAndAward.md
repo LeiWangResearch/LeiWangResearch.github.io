@@ -7,14 +7,12 @@ nav: true
 
 
 ### Awards and Honors
+- Smeal Small Research Grant, Penn State, 2017.
 - Nunamaker-Chen Dissertation Award, INFORMS Information Systems Society, 2015
+- Smeal Small Research Grant, Penn State, 2014.
 - OPIM Outstanding PhD Student Scholar Award, UConn, 2013, 2012
 - OPIM Outstanding PhD Student Teaching Award, UConn, 2012
 - Doctoral Dissertation Fellowship, UConn, 2012
-
-### Research Grants
-- Smeal Small Research Grant, Smeal College of Business, Penn State, $1950, 2017.
-- Smeal Small Research Grant, Smeal College of Business, Penn State, $2000, 2014.
 
 ### Invited Talks
 - Lehigh University, College of Business, 2023.
