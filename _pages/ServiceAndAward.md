@@ -7,9 +7,9 @@ nav: true
 
 
 ### Awards and Honors
-- Smeal Small Research Grant, Penn State, 2017.
+- Smeal Small Research Award, Penn State, 2017.
 - Nunamaker-Chen Dissertation Award, INFORMS Information Systems Society, 2015
-- Smeal Small Research Grant, Penn State, 2014.
+- Smeal Small Research Award, Penn State, 2014.
 - OPIM Outstanding PhD Student Scholar Award, UConn, 2013, 2012
 - OPIM Outstanding PhD Student Teaching Award, UConn, 2012
 - Doctoral Dissertation Fellowship, UConn, 2012
