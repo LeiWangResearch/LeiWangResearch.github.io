@@ -27,6 +27,7 @@ nav: true
 - Associate Editor, 2021
 - Associate Editor, 2020
 - Associate Editor, 2019
+  
 ##### Conference on Information Systems and Technology (CIST)
 - Program Committee Member, 2024
 - Program Committee Member, 2023
@@ -37,6 +38,7 @@ nav: true
 - Program Committee Member, 2016
 - Program Committee Member, 2015
 - Program Committee Member, 2014
+  
 ##### Workshop on Information Technology and Systems (WITS)
 - Program Committee Member, 2024
 - Conference Co-Chair, 2023
@@ -48,6 +50,7 @@ nav: true
 - Program Committee Member, 2018
 - Program Committee Member, 2017
 - Program Committee Member, 2016
+  
 ##### China Summer Workshop on Information Management (CSWIM)
 - Program Committee Member, 2024
 - Program Committee Member, 2021
@@ -58,13 +61,16 @@ nav: true
 - Program Committee Member, 2016
 - Program Committee Member, 2015
 - Discussant, 2015
+  
 ##### INFORMS Annual Meeting
 - Session Chair, 2024
 - Session Chair, 2020
 - Session Chair, 2016
 - Session Chair, 2015
+  
 ##### Pacific-Asia Conference on Information Systems (PACIS)
 - Associate Editor, 2022
+  
 ##### Workshop on Information Systems and Economics (WISE)
 - Discussant, 2021
 
