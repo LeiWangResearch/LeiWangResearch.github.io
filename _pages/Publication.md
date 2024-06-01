@@ -17,11 +17,11 @@ nav: true
 1. Ba, S., **Wang, L.**  (Listed Alphabetically) (2013). [Digital Health Communities: The Effect of Their Motivation Mechanisms](https://doi.org/10.1016/j.dss.2013.01.003). ***Decision Support Systems***, 55, 941-947.
 <br>
 
-### Papers Under Review
+### Working Papers
 1. **Wang, L.**, Zhang, Y., Ho, Y. Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing. (Under preparation for the third round review) 
-1. Liu, Y., **Wang, L.**, Yang, S., Wang, Y. AI-Powered Digital Streamers for Online Retail: Empirical Evidence and Design Strategies Through Experiments (Under the second round review )
+1. Liu, Y., **Wang, L.**, Yang, S., Wang, Y. AI-Powered Digital Streamers for Online Retail: Empirical Evidence and Design Strategies Through Experiments (Under the second round review)
 1. Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work (Under the first round review)
-1. **Wang, L.**, Huang, L., Gopal, R. From Exposure to Expression: The Influence of NSFW Content on User Interaction Dynamics in Generative AI and its Implications for Moderation (Under the first round review )
+1. **Wang, L.**, Huang, L., Gopal, R. From Exposure to Expression: The Influence of NSFW Content on User Interaction Dynamics in Generative AI and its Implications for Moderation (Under the first round review)
 <br>
 
 ### Work-in-Progress
