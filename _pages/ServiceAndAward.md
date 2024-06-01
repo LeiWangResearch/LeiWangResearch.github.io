@@ -7,92 +7,92 @@ nav: true
 
 
 ### Awards and Honors
-- Smeal Small Research Award, Penn State, 2017.
-- INFORMS ISS Nunamaker-Chen Dissertation Award, 2015
-- Smeal Small Research Award, Penn State, 2014.
-- OPIM Outstanding PhD Student Scholar Award, UConn, 2013
-- OPIM Outstanding PhD Student Scholar Award, UConn, 2012
-- OPIM Outstanding PhD Student Teaching Award, UConn, 2012
-- Doctoral Dissertation Fellowship, UConn, 2012
+Smeal Small Research Award, Penn State, 2017 <br>
+INFORMS ISS Nunamaker-Chen Dissertation Award, 2015 <br>
+Smeal Small Research Award, Penn State, 2014<br>
+OPIM Outstanding PhD Student Scholar Award, UConn, 2013<br>
+OPIM Outstanding PhD Student Scholar Award, UConn, 2012<br>
+OPIM Outstanding PhD Student Teaching Award, UConn, 2012<br>
+Doctoral Dissertation Fellowship, UConn, 2012<br>
 
 
 ### Journal Editor
-- Associate Editor, Decision Support Systems, 2023-Present
+Associate Editor, Decision Support Systems, 2023-Present <br>
 
 ### Conference Committee, Session Chair, and Discussant
-##### International Conference on Information Systems (ICIS)
-- Associate Editor, 2024
-- Associate Editor, 2023
-- Associate Editor, 2022
-- Associate Editor, 2021
-- Associate Editor, 2020
-- Associate Editor, 2019
+**International Conference on Information Systems (ICIS)**  <br>
+Associate Editor, 2024 <br>
+Associate Editor, 2023 <br>
+Associate Editor, 2022 <br>
+Associate Editor, 2021 <br>
+Associate Editor, 2020 <br>
+Associate Editor, 2019 <br>
   
-##### Conference on Information Systems and Technology (CIST)
-- Program Committee Member, 2024
-- Program Committee Member, 2023
-- Program Committee Member, 2022
-- Program Committee Member, 2021
-- Program Committee Member, 2020
-- Program Committee Member, 2017
-- Program Committee Member, 2016
-- Program Committee Member, 2015
-- Program Committee Member, 2014
+**Conference on Information Systems and Technology (CIST)**  <br>
+Program Committee Member, 2024 <br>
+Program Committee Member, 2023 <br>
+Program Committee Member, 2022 <br>
+Program Committee Member, 2021 <br>
+Program Committee Member, 2020 <br>
+Program Committee Member, 2017 <br>
+Program Committee Member, 2016 <br>
+Program Committee Member, 2015 <br>
+Program Committee Member, 2014 <br>
   
-##### Workshop on Information Technology and Systems (WITS)
-- Program Committee Member, 2024
-- Conference Co-Chair, 2023
-- Program Committee Member, 2023
-- Program Committee Member, 2022
-- Program Committee Member, 2021
-- Program Committee Member, 2020
-- Program Committee Member, 2019
-- Program Committee Member, 2018
-- Program Committee Member, 2017
-- Program Committee Member, 2016
+**Workshop on Information Technology and Systems (WITS)**  <br>
+Program Committee Member, 2024 <br>
+Conference Co-Chair, 2023 <br>
+Program Committee Member, 2023 <br>
+Program Committee Member, 2022 <br>
+Program Committee Member, 2021 <br>
+Program Committee Member, 2020 <br>
+Program Committee Member, 2019 <br>
+Program Committee Member, 2018 <br>
+Program Committee Member, 2017 <br>
+Program Committee Member, 2016 <br>
   
-##### China Summer Workshop on Information Management (CSWIM)
-- Program Committee Member, 2024
-- Program Committee Member, 2021
-- Program Committee Member, 2020
-- Program Committee Member, 2019
-- Program Committee Member, 2018
-- Program Committee Member, 2017
-- Program Committee Member, 2016
-- Program Committee Member, 2015
-- Discussant, 2015
+**China Summer Workshop on Information Management (CSWIM)**  <br>
+Program Committee Member, 2024 <br>
+Program Committee Member, 2021 <br>
+Program Committee Member, 2020 <br>
+Program Committee Member, 2019 <br>
+Program Committee Member, 2018 <br>
+Program Committee Member, 2017 <br>
+Program Committee Member, 2016 <br>
+Program Committee Member, 2015 <br>
+Discussant, 2015 <br>
   
-##### INFORMS Annual Meeting
-- Session Chair, 2024
-- Session Chair, 2020
-- Session Chair, 2016
-- Session Chair, 2015
+**INFORMS Annual Meeting**  <br>
+Session Chair, 2024 <br>
+Session Chair, 2020 <br>
+Session Chair, 2016 <br>
+Session Chair, 2015 <br>
   
-##### Pacific-Asia Conference on Information Systems (PACIS)
-- Associate Editor, 2022
+**Pacific-Asia Conference on Information Systems (PACIS)**  <br>
+Associate Editor, 2022 <br>
   
-##### Workshop on Information Systems and Economics (WISE)
-- Discussant, 2021
+**Workshop on Information Systems and Economics (WISE)**  <br>
+Discussant, 2021 <br>
 
 
 
 ### Journal Reviewer
-- Management Science
-- MIS Quarterly
-- Information Systems Research
-- Journal of Management Information Systems
-- Production and Operations Management
-- Service Science
-- Decision Support Systems
-- Information & Management
-- Service Science
-- Information Systems Frontiers
+Management Science <br>
+MIS Quarterly <br>
+Information Systems Research <br>
+Journal of Management Information Systems <br>
+Production and Operations Management <br>
+Service Science <br>
+Decision Support Systems <br>
+Information & Management <br>
+Service Science <br>
+Information Systems Frontiers <br>
 
  
 ### Conference Reviewer
-- Conference on Information Systems and Technology (CIST)，2013, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
-- International Conference on Information Systems (ICIS)，2012, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
-- Workshop on Information Technology and Systems (WITS)， 2013, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
-- Hawaii International Conference on System Sciences (HICSS)， 2014, 2015, 2016, 2022, 2023
+Conference on Information Systems and Technology (CIST)，2013, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 <br>
+International Conference on Information Systems (ICIS)，2012, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 <br>
+Workshop on Information Technology and Systems (WITS)， 2013, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 <br>
+Hawaii International Conference on System Sciences (HICSS)， 2014, 15, 16, 22, 23 <br>
 
 
