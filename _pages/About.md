@@ -21,7 +21,9 @@ Office: 426 Business Building<br>
 Phone: 814-867-5838<br>
 Email: lei.michelle.wang@gmail.com<br>
 
-[**[Google Scholar]**](https://scholar.google.com/citations?hl=en&user=wJNAAmIAAAAJ&view_op=list_works&sortby=pubdate) |        [**[Linkedin]**](https://www.linkedin.com/in/lei-wang-88810a3a/) |        [**[CV]**](/assets/files/LeiWang_CV.pdf) <br>
+[**[Google Scholar]**](https://scholar.google.com/citations?hl=en&user=wJNAAmIAAAAJ&view_op=list_works&sortby=pubdate) |        [**[Linkedin]**](https://www.linkedin.com/in/lei-wang-88810a3a/) <br>
+
+<!-- |        [**[CV]**](/assets/files/LeiWang_CV.pdf) <br> -->
 
 <br>
 
@@ -31,16 +33,15 @@ Her research focuses on the integration and impact of digital technologies in bu
 
 Her contributions to the field have been recognized through publications in leading journals such as **MIS Quarterly**, **Information Systems Research**, **Production and Operations Management**, and Decision Support Systems. Her research received the **INFORMS ISS Nunamaker-Chen Dissertation Award** in 2015.
 
-Dr. Wang actively contributes to the academic community as an Associate Editors and serves as an ad-hoc reviewer for Management Science, Information Systems Research, MIS Quarterly, Production and Operations Management, Journal of Management Information Systems, Decision Support Systems, and Service Science. She also serves as an associate editor, session chair, discussant, or program committee member for conferences including ICIS, CIST, WITS, WISE, CSWIM, and PACIS.
+Dr. Wang actively contributes to the academic community as an Associate Editors and serves as an ad-hoc reviewer for Management Science, Information Systems Research, MIS Quarterly, Production and Operations Management, Journal of Management Information Systems, Decision Support Systems, and Service Science. She also serves as an associate editor, session chair, discussant, or program committee member for conferences including ICIS, CIST, WITS, WISE, CSWIM, and PACIS. <br>
 
-<br>
-**Education**<br>
-**Ph.D.**, Operations and Information Management, University of Connecticut,2014 <br>
+
+**Education** <br>
+**Ph.D.**, Operations and Information Management, University of Connecticut, 2014 <br>
 **M.S.**, Economics, Xi'an Jiaotong University, 2008<br>
-**B.S.**, Electrical Engineering, Nanjing University of Science and Technology，2005<br>
+**B.S.**, Electrical Engineering, Nanjing University of Science and Technology, 2005<br>
 
-<br>
-**Membership in Professional Organizations** <br>
+**Membership in Professional Organizations**  <br>
 Institute for Operations Research and the Management Sciences (INFORMS)<br>
 Information Systems Society (ISS)<br>
 Association of Information Systems (AIS)<br>
