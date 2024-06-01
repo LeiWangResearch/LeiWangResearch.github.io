@@ -33,14 +33,15 @@ Her contributions to the field have been recognized through publications in lead
 
 Dr. Wang actively contributes to the academic community as an Associate Editors and serves as an ad-hoc reviewer for Management Science, Information Systems Research, MIS Quarterly, Production and Operations Management, Journal of Management Information Systems, Decision Support Systems, and Service Science. She also serves as an associate editor, session chair, discussant, or program committee member for conferences including ICIS, CIST, WITS, WISE, CSWIM, and PACIS.
 
-
+<br>
 **Education**<br>
-**Ph.D.**, Operations and Information Management, University of Connecticut， 2014 <br>
-**M.S.**, Economics, Xi'an Jiaotong University， 2008<br>
-**B.S.**, Electrical Engineering, Nanjing University of Science and Technology， 2005
+**Ph.D.**, Operations and Information Management, University of Connecticut,2014 <br>
+**M.S.**, Economics, Xi'an Jiaotong University, 2008<br>
+**B.S.**, Electrical Engineering, Nanjing University of Science and Technology，2005<br>
 
+<br>
 **Membership in Professional Organizations** <br>
 Institute for Operations Research and the Management Sciences (INFORMS)<br>
 Information Systems Society (ISS)<br>
 Association of Information Systems (AIS)<br>
-Production and Operations Management Society (POMS)<br>
+Production and Operations Management Society (POMS)
