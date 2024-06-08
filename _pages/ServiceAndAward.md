@@ -1,7 +1,7 @@
 ---
 layout: page
-title: service and award
-permalink: /serviceandaward/
+title: Service and Award
+permalink: /ServiceAndAward/
 nav: true
 ---
 
