@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: Bio
 permalink: /
 description: 
 
 profile:
   align: left
-  image: leiWangHeadshot24.jpg
+  image: leiWangProfessional.jpg
   address: 
 
 news: false  # includes a list of news items
