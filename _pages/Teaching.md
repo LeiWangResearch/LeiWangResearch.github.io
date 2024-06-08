@@ -20,7 +20,7 @@ Fall 2015 (3 sections: in-person) <br>
 Spring 2015 (2 sections: in-person) <br>
 Fall 2014 (1 section: in-person) <br>
 
-**SCIS Ph.D. Seminar**<br>
+**SCIS 597, Ph.D. Seminar**<br>
 Spring 2023 (Guest Lecture on Machine Learning and Artificial Intelligence) <br>
 <br>
 
