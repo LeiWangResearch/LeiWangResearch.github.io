@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 Department Supply Chain & Information Systems<br>
 Smeal College of Business<br>
 Pennsylvania State University, University Park<br>
-Office: 426 Business Building<be>
+Office: 426 Business Building<br>
 Phone: (814) 867-5838<br>
 Email: lei.michelle.wang@gmail.com<br>
 
