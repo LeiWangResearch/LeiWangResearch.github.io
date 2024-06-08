@@ -21,8 +21,11 @@ Office: 426 Business Building<br>
 <!--  Phone: (814) 867-5838<br> -->
 Email: lei.michelle.wang@gmail.com<br>
 
-[**[Google Scholar]**](https://scholar.google.com/citations?hl=en&user=wJNAAmIAAAAJ&view_op=list_works&sortby=pubdate) --- [**[Linkedin]**](https://www.linkedin.com/in/lei-wang-88810a3a/) --- [**[CV]**](/assets/files/LeiWang_CV.pdf) 
-
+[**[Google Scholar]**](https://scholar.google.com/citations?hl=en&user=wJNAAmIAAAAJ&view_op=list_works&sortby=pubdate) 
+|
+[**[Linkedin]**](https://www.linkedin.com/in/lei-wang-88810a3a/)
+|
+[**[CV]**](/assets/files/LeiWang_CV.pdf) 
 <br>
 
 Lei Wang holds a Ph.D. in Operations and Information Management from the School of Business at the University of Connecticut. She also holds a Master's degree in Economics and a Bachelor's degree in Electrical Engineering.
