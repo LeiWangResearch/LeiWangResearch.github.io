@@ -29,6 +29,8 @@ Email: lei.michelle.wang@gmail.com<br>
 <br>
 
 <br>
+
+<br>
 Lei Wang holds a Ph.D. in Operations and Information Management from the School of Business at the University of Connecticut. She also holds a Master's degree in Economics and a Bachelor's degree in Electrical Engineering. Her research focuses on the integration and impact of digital technologies in business. Her main areas of research include **artificial intelligence (AI)**, **digital platforms**, **digital commerce**, **gamification**, and **user engagement**. She employs diverse methodologies in her research, ranging from **machine learning** and **statistical modeling** to **field and laboratory experiments** and **applied econometrics**.
 
 Her contributions to the field have been recognized through publications in leading journals such as **MIS Quarterly**, **Information Systems Research**, **Production and Operations Management**, and Decision Support Systems. Her research received the **INFORMS ISS Nunamaker-Chen Dissertation Award** in 2015.
