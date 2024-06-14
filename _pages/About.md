@@ -26,7 +26,6 @@ Email: lei.michelle.wang@gmail.com<br>
 [**[Linkedin]**](https://www.linkedin.com/in/lei-wang-88810a3a/)
 |
 [**[CV]**](/assets/files/LeiWang_CV.pdf) 
-<br>
 
 <br>
 
