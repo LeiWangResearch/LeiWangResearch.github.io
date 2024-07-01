@@ -14,10 +14,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Department Supply Chain & Information Systems<br>
-Smeal College of Business<br>
-Pennsylvania State University, University Park<br>
-Office: 426 Business Building<br>
+Department of Operations and Information Systems<br>
+David Eccles School of Business<br>
+University of Utah, Salt Lake City<br>
+<!--Office: 426 Business Building<br> -->
 <!--  Phone: (814) 867-5838<br> -->
 Email: lei.michelle.wang@gmail.com<br>
 
